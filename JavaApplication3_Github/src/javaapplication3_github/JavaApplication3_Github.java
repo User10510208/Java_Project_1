@@ -7,8 +7,8 @@ public class JavaApplication3_Github {
         String stringTest = "Good";
         String nameTest = "my Friend";
         
-        int x = 6;
-        int y = 7;
+        int x = 9;
+        int y = -3;
         
         // Printing
         System.out.println("Hello " + nameTest + ".");
